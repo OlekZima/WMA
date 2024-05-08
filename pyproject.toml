@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "wma"
+version = "0.1.0"
+description = ""
+authors = ["OlekZima"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+opencv-contrib-python = "^4.9.0.80"
+numpy = "^1.26.4"
+tensorflow = "^2.15.0.post1"
+keras = "^3.0.5"
+matplotlib = "^3.8.3"
+screeninfo = "^0.8.1"
+
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.29.3"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
