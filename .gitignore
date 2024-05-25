@@ -1,0 +1,4 @@
+**/__pycached__/
+.venv/
+**/*.mp4
+**/.idea
