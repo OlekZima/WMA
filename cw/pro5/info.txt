@@ -1,0 +1,3 @@
+dataset: https://app.roboflow.com/testset-7hshq/wma-u0rqo/4
+
+liczba epok: 300
